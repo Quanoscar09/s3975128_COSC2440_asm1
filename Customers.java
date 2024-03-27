@@ -1,3 +1,6 @@
+/**
+ * @author <Nguyen Minh Quan - s3975128>
+ */
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

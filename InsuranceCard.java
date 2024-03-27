@@ -1,3 +1,6 @@
+/**
+ * @author <Nguyen Minh Quan - s3975128>
+ */
 import java.time.LocalDate;
 
 public class InsuranceCard {
